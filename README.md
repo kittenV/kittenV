@@ -1,0 +1,3 @@
+ - Some unknow game/program developer named kittenV.
+ - I'm from Ukraine, so I can have mistakes when I'm writing English but anyway.
+ - Interested in JavaScript, but also like other programming languages.
